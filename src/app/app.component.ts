@@ -6,7 +6,7 @@ import {
   Validators,
   FormsModule,
   ReactiveFormsModule,
-} from '@angular/forms'; // Certifique-se de importar corretamente
+} from '@angular/forms'; 
 import { ShoppingListComponent } from './shopping-list/shopping-list.component';
 
 @Component({
